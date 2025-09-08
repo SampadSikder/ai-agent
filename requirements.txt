@@ -1,0 +1,14 @@
+langchain-core
+numpy
+pandas
+pydantic
+python-dotenv
+faiss-cpu
+llama-index 
+llama-index-core 
+llama-index-embeddings-google 
+kagglehub
+langchain_community
+llama-index-embeddings-google-genai 
+google-genai
+tqdm
